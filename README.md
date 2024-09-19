@@ -36,6 +36,6 @@ devops
 
 Once the shell has launched, run `assume-role` if you have more than one AWS account to switch between. This will set the AWS_PROFILE environment variable to the selected profile.
 
-![screenshot](docs/launched.jpeg)
+![screenshot](docs/launched.jpg)
 
 If you have more than one kubernetes cluster in your `kubeconfig`, you can switch between them using the `kubectx` command.
